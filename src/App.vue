@@ -9,6 +9,16 @@
       Your identicon:<br />
       <div v-html="identicon" />
     </div>
+    <div style="text-align:center">
+      <small
+        >Vue Identicon Generator - made to learn VueJS -
+        <a
+          href="https://github.com/franckboudraa/vue-identicon-generator"
+          target="_blank"
+          >github source</a
+        ></small
+      >
+    </div>
   </div>
 </template>
 
